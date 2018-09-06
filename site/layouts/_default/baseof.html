@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.Language.Lang }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <title>{{ block "title" . }} {{ .Site.Title }}{{ end }}</title>
+    <link rel="stylesheet" href="/css/main.css"/>
+    <link href="https://fonts.googleapis.com/css?family=Cabin|Lora:400,400i,700,700i" rel="stylesheet">
+  </head>
+  <body>
+    <header id="site-header">
+      <h1 id="site-title">Laura Elvery</h1>
+      <nav id="main-menu">
+        <ul>
+          {{ range .Site.Menus.main }}
+          <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+      </nav>
+    </header>
+    <main id="site-body">
+      {{ block "main" . }}
+        <!-- The part of the page that begins to differ between templates -->
+      {{ end }}
+    </main>
+    <footer id="site-footer">
+      <p>© Laura Elvery</p>
+      {{ block "footer" . }}
+      <!-- More shared code, perhaps a footer but that can be overridden if need be in  -->
+      {{ end }}
+    </footer>
+    <script src="/app.js"></script>
+  </body>
+</html>

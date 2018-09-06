@@ -1,0 +1,66 @@
+/*
+  Or add your statements here:
+ */
+body {
+  font-family: "Lora", serif;
+  text-align: left;
+  border-top: 8px solid #000;
+  display: grid;
+  grid-template-columns: [main-column] 100fr;
+  grid-template-rows: [header] auto [body] 100fr [footer] auto;
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+
+#site-header {
+  padding: 1rem;
+  margin: 0px;
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: baseline;
+  position: relative;
+}
+
+#site-title::after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 0;
+  border-bottom: 1px solid #000;
+  position: absolute;
+  bottom: 0;
+  left: 1rem;
+}
+
+#site-body {
+  /* background: #aff; */
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  width: 1000px;
+}
+
+#site-footer {
+  /* background: #faf; */
+  padding: 20px;
+}
+
+#site-title {
+  text-transform: uppercase;
+  margin: 0;
+}
+
+#book {
+  flex-basis: 60%;
+}
+
+#book img {
+  max-width: 100%;
+}
+
+#bio {
+  flex-basis: 30%;
+  margin-left: 20px;
+}
