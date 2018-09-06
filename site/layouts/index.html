@@ -1,9 +1,19 @@
 {{ define "main" }}
-
-<h1>Hugo with Gulp, PostCSS and Webpack</h1>
-
-<p>
-  Hooray 🎉 - you've built this with <a href="https://github.com/netlify/victor-hugo">Victor-Hugo</a>!
-</p>
-
-{{end}}
+  <div id="book">
+    <img
+          sizes="(min-width: 40em) 80vw, 300px"
+          srcset="/images/{{ .Params.book.image }}-small.jpg 480w,
+          /images/{{ .Params.book.image }}-medium.jpg 675w" 
+          src="/images/{{ .Params.book.image }}-small.jpg"
+          alt="Cover of 'Trick of the Light' by Laura Elvery" />
+    <blockquote>
+      <p>{{ .Params.book.praise.quote }}</p>
+      <cite>{{ .Params.book.praise.attribution }}</cite>
+    </blockquote>
+  </div>
+    
+  <div id="bio">
+    <h1>{{ .Params.bio.title }}</h1>
+    <p>{{ .Params.bio.text | markdownify}}</p>
+  </div>
+{{ end }}
