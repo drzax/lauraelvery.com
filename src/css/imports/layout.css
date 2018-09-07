@@ -53,6 +53,24 @@ body {
   max-width: 50em;
 }
 
+#site-body div + div {
+  margin-top: 1.6em;
+}
+
+@media screen and (min-width: 1200px) {
+  #site-body {
+    max-width: none;
+    display: grid;
+    grid-template-columns: [start] 75% [middle] 100fr [end];
+    grid-template-rows: auto auto;
+    grid-column-gap: 40px;
+  }
+
+  #site-body .content {
+    grid-column: 1/3;
+  }
+}
+
 #site-footer {
   grid-area: footer;
   padding: 20px;
@@ -77,6 +95,11 @@ body {
 
 .book .cover {
   max-width: 100%;
+  margin-bottom: 1em;
+}
+
+.book .buy {
+  margin-bottom: 1em;
 }
 
 .book .endorsements blockquote {
@@ -93,22 +116,26 @@ body {
 @media screen and (min-width: 500px) {
   .book {
     display: grid;
-    grid-template-columns: 40% 100fr;
+    grid-template-columns: 45% 100fr;
     grid-template-rows: 100fr auto;
+    max-width: 900px;
   }
 
   .book .cover {
     grid-column: 1 / 2;
     grid-row: 1 / 3;
+    align-self: end;
   }
 
   .book .endorsements {
     grid-column: 2/3;
+    grid-row: 1/2;
     padding: 16px;
   }
 
   .book .buy {
     padding: 16px;
+    margin: 0;
   }
 }
 

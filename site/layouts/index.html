@@ -1,5 +1,7 @@
 {{ define "main" }}
-  {{.Content}}
+  <div class="content">
+    {{.Content}}  
+  </div>
   <div class="book">
     <img  class="cover"
           sizes="(min-width: 40em) 80vw, 100vw"
@@ -7,6 +9,8 @@
           /images/{{ .Params.book.image }}-medium.jpg 675w" 
           src="/images/{{ .Params.book.image }}-small.jpg"
           alt="Cover of 'Trick of the Light' by Laura Elvery" />
+          
+          <a class="buy" href="{{ .Params.book.buy }}" title="Buy Trick of the Light by Laura Elvery">Buy now →</a>
     {{ with .Params.book.praise }}
     <div class="endorsements">
       {{ range . }}
@@ -17,7 +21,6 @@
       {{ end }}
     </div>
     {{ end }}
-    <a class="buy" href="{{ .Params.book.buy }}" title="Buy Trick of the Light by Laura Elvery">Buy now →</a>
   </div>
     
   <div id="bio">
