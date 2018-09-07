@@ -1,15 +1,23 @@
 {{ define "main" }}
-  <div id="book">
-    <img
-          sizes="(min-width: 40em) 80vw, 300px"
+  {{.Content}}
+  <div class="book">
+    <img  class="cover"
+          sizes="(min-width: 40em) 80vw, 100vw"
           srcset="/images/{{ .Params.book.image }}-small.jpg 480w,
           /images/{{ .Params.book.image }}-medium.jpg 675w" 
           src="/images/{{ .Params.book.image }}-small.jpg"
           alt="Cover of 'Trick of the Light' by Laura Elvery" />
-    <blockquote>
-      <p>{{ .Params.book.praise.quote }}</p>
-      <cite>{{ .Params.book.praise.attribution }}</cite>
-    </blockquote>
+    {{ with .Params.book.praise }}
+    <div class="endorsements">
+      {{ range . }}
+      <blockquote>
+        <p>{{ .quote | markdownify }}</p>
+        <cite>{{ if (isset . "link") }}<a href="{{ .link }}">{{ .attribution }}</a>{{ else }}{{ .attribution }}{{ end }}</cite>
+      </blockquote>
+      {{ end }}
+    </div>
+    {{ end }}
+    <a class="buy" href="{{ .Params.book.buy }}" title="Buy Trick of the Light by Laura Elvery">Buy now →</a>
   </div>
     
   <div id="bio">

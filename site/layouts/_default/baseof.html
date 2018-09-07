@@ -2,7 +2,7 @@
 <html lang="{{ $.Site.Language.Lang }}">
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ block "title" . }} {{ .Site.Title }}{{ end }}</title>
     <link rel="stylesheet" href="/css/main.css"/>
     <link href="https://fonts.googleapis.com/css?family=Cabin|Lora:400,400i,700,700i" rel="stylesheet">
@@ -12,8 +12,9 @@
       <h1 id="site-title">Laura Elvery</h1>
       <nav id="main-menu">
         <ul>
+          {{ $currentPage := . }}
           {{ range .Site.Menus.main }}
-          <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+          <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}"><a href="{{ .URL }}">{{ .Name }}</a></li>
           {{ end }}
         </ul>
       </nav>

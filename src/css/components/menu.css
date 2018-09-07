@@ -1,13 +1,26 @@
 #main-menu ul {
   display: flex;
   flex-direction: row;
-  margin: 0;
+  margin: 10px 0;
   padding: 0;
   font-family: "Cabin", sans-serif;
 }
 
 #main-menu li {
   list-style: none;
+  margin-bottom: 0;
+}
+
+#main-menu li:before {
+  content: none;
+}
+
+#main-menu li a {
+  color: #999;
+}
+
+#main-menu li.active a {
+  color: #000;
 }
 
 #main-menu li:not(:last-child)::after {
