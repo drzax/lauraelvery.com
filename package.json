@@ -1,9 +1,10 @@
 {
-  "name": "victor-hugo",
+  "name": "lauraelvery.com",
   "version": "1.0.0",
-  "description": "Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
-  "repository": "netlify/victor-hugo",
+  "description": "Code and content for lauraelvery.com",
+  "repository": "drzax/lauraelvery.com",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "hugo": "gulp hugo",
     "build": "gulp build",
@@ -13,7 +14,6 @@
     "lint": "eslint src"
   },
   "author": "",
-  "license": "MIT",
   "dependencies": {
     "babel-core": "^6.26.0",
     "babel-eslint": "^8.2.3",
