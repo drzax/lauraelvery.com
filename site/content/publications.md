@@ -15,12 +15,9 @@ weight: 10
 - [_Pudding_](https://thewritersbloc.net/bloc-features-pudding-laura-elvery), Writers Bloc, 2016
 - [_Caius Atlas_](https://griffithreview.com/articles/caius-atlas/), Griffith Review, Ed. 51, 2016
 - [_Pudding_](https://www.thebigissue.org.au/blog/2016/03/23/fiction-edition---pudding/), The Big Issue Fiction Edition, 2015
-- Published, Prizing Diversity, Thames and Hudson, 2015
+- [_Replica_](https://booko.com.au/9780500500552/Prizing-Diversity), Prizing Diversity, Thames and Hudson, 2015
 - [_Love, Listen_](https://www.yenmag.net/friday-fiction-love-listen/), Yen Mag Short Story Prize Runner-up, 2015
 - [_The Elements_](https://www.killyourdarlings.com.au/2014/11/the-elements-by-laura-elvery/), Kill Your Darlings, 2014
-- Published, Award Winning Australian Writing, Melbourne Books, 2015, 2013
-- Published, Bide Magazine, 2013
-- Young Adult book review features in Australian Book Review, 2012-present
 
 # Awards
 
