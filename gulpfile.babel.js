@@ -45,10 +45,12 @@ gulp.task("js", (cb) => {
 
   webpack(myConfig, (err, stats) => {
     if (err) throw new pluginError("webpack", err);
-    log(`[webpack] ${stats.toString({
-      colors: true,
-      progress: true
-    })}`);
+    log(
+      `[webpack] ${stats.toString({
+        colors: true,
+        progress: true
+      })}`
+    );
     browserSync.reload();
     cb();
   });
@@ -100,7 +102,7 @@ function runServer() {
   gulp.watch("./src/fonts/**/*", ["fonts"]);
   gulp.watch("./src/images/**/*", ["img"]);
   gulp.watch("./site/**/*", ["hugo"]);
-};
+}
 
 /**
  * Run hugo and build the site
