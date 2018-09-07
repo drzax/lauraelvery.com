@@ -4,14 +4,17 @@ title: Book
 weight: -100
 book: 
   image: trick-of-the-light-cover
+  buy: https://www.uqp.uq.edu.au/book.aspx/1457/Trick%20of%20the%20Light
   praise:
     quote: "It's great"
     attribution: Simon Elvery
 bio: 
-  title: Bio
-  image: /img/laura.jpg
+  title: About Laura
+  image: laura-1O1A0126
   text: |
-    Laura Elvery is a writer from Brisbane. Her work has been published in [The Big Issue Fiction Edition](https://www.thebigissue.org.au/), Review of Australian Fiction, Kill Your Darlings and Griffith Review. She has won the Josephine Ulrick Prize for Literature and the Margaret River Short Story Competition, and was awarded a Griffith Review Queensland Writing Fellowship. 
+    Laura Elvery is a writer from Brisbane. Her work has been published in Meanjin, Overland, The Big Issue Fiction Edition and Griffith Review. She has won the Josephine Ulrick Prize for Literature, the Margaret River Short Story Competition and the Neilma Sidney Short Story Prize.
     
-    She has been shortlisted for the Overland NUW Fair Australia, Neilma Sidney and Victoria University prizes. In 2016, Laura was shortlisted for the Queensland Literary Award for an unpublished manuscript.
+    Laura has a PhD in Creative Writing.
 ---
+
+Trick of the Light has been shortlisted in the 2018 Queensland Literary Awards.
