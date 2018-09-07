@@ -24,4 +24,6 @@ bio:
     Laura has a PhD in Creative Writing. She also has two small children. She lives in Brisbane.
 ---
 
+See Laura at the [Brisbane Writer Festival](https://bwf.org.au/2018/brisbane-writers-festival/magical-new-fiction) — 10am Saturday September 8th — [Tickets](https://bwf.org.au/2018/brisbane-writers-festival/magical-new-fiction).
+
 _Trick of the Light_ has been shortlisted in the [2018 Queensland Literary Awards](http://www.qldliteraryawards.org.au/about/2018-shortlists).
