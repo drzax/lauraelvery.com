@@ -20,7 +20,7 @@ export default {
 
   plugins: [
     new webpack.ProvidePlugin({
-      "fetch": "imports-loader?this=>global!exports-loader?global.fetch!whatwg-fetch"
+      fetch: "imports-loader?this=>global!exports-loader?global.fetch!whatwg-fetch"
     })
   ],
 
@@ -33,5 +33,5 @@ export default {
     publicPath: "/",
     filename: "[name].js"
   },
-  externals:  [/^vendor\/.+\.js$/]
+  externals: [/^vendor\/.+\.js$/]
 };

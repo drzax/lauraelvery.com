@@ -1,0 +1,19 @@
+backend:
+  name: git-gateway
+  branch: master
+publish_mode: editorial_workflow
+media_folder: "src/images/uploads"
+collections:
+  - name: "pages"
+    label: "Pages"
+    folder: "site/content"
+    create: true
+    slug: "{{slug}}"
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Menu"
+        name: "menu"
+        widget: "select"
+        options: ["none", "main"]
+        

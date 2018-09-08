@@ -1,7 +1,5 @@
 {{ define "main" }}
-  <div class="content">
-    {{.Content}}  
-  </div>
+  {{ partial "content" . }}
   <div class="book">
     <img  class="cover"
           sizes="(min-width: 40em) 80vw, 100vw"

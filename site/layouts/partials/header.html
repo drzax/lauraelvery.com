@@ -1,0 +1,11 @@
+<header id="site-header">
+	<h1 id="site-title">Laura Elvery</h1>
+	<nav id="main-menu">
+		<ul>
+			{{ $currentPage := . }}
+			{{ range .Site.Menus.main }}
+			<li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}"><a href="{{ .URL }}">{{ .Name }}</a></li>
+			{{ end }}
+		</ul>
+	</nav>
+</header>
