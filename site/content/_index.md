@@ -1,6 +1,6 @@
 ---
 title: Book
-menu: none
+menu: main
 ---
 
 See Laura at the [National Young Writers' Festival](https://youngwritersfestival.org/artists/laura-elvery/).
