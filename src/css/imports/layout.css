@@ -64,6 +64,7 @@ body {
     grid-template-columns: [start] 75% [middle] 100fr [end];
     grid-template-rows: auto auto;
     grid-column-gap: 40px;
+    align-self: start;
   }
 
   #site-body .content {
