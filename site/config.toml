@@ -2,6 +2,7 @@ baseurl = "/"
 languageCode = "en-au"
 languageLang = "en"
 title = "Laura Elvery - Author"
+enableRobotsTXT = true
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
