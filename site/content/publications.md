@@ -6,14 +6,14 @@ weight: 10
 ---
 # Publications
 
-* _Seeing the Light: Shaping my debut collection from manuscript into published book, _[WQ Magazine](https://qldwriters.org.au/magazine/), 2018
+* _Seeing the Light: Shaping my debut collection from manuscript into published book_, [WQ Magazine](https://qldwriters.org.au/magazine/), 2018
 * [_Sherri Baby_](https://www.thebigissue.org.au/magazines/2018/08/10/fiction-edition-2018/), The Big Issue Fiction Edition, 2018
 * [_Neighbourly_](https://meanjin.com.au/fiction/neighbourly/), Meanjin, winter 2018
 * [_Unspooling_](https://overland.org.au/previous-issues/issue-230/fiction-prize-laura-elvery/), Overland, issue 230, 2018
-* __[_Joiner Bay_](https://margaretriverpress.com/product/joiner-bay-and-other-stories/), Joiner Bay and Other Stories, 2017
+* [_Joiner Bay_](https://margaretriverpress.com/product/joiner-bay-and-other-stories/), Joiner Bay and Other Stories, 2017
 * [_Wingspan_](https://griffithreview.com/articles/wingspan/), Griffith Review, Ed. 58, 2017
 * [_What You Really Collect Is Always Yourself_](http://reviewofaustralianfiction.com/product/raf-140-volume-21-issue-1/), Review of Australian Fiction, February 2017
-* __[_Acrobat_](https://margaretriverpress.com/product/shibboleth-other-stories/), Shibboleth and Other Stories, 2016
+* [_Acrobat_](https://margaretriverpress.com/product/shibboleth-other-stories/), Shibboleth and Other Stories, 2016
 * [_Hitting Send: Taking a short story from draft to market_](https://qldwriters.org.au/2016/01/04/hitting-send-taking-a-short-story-from-draft-to-market/), WQ Online, 2016
 * [_Pudding_](https://thewritersbloc.net/bloc-features-pudding-laura-elvery), Writers Bloc, 2016
 * [_Caius Atlas_](https://griffithreview.com/articles/caius-atlas/), Griffith Review, Ed. 51, 2016
