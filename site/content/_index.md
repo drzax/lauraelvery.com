@@ -2,11 +2,8 @@
 title: Book
 menu: main
 weight: -100
-bio:
-  image: /images/small/laura-1O1A0126.jpg
-  title: About Laura
 book:
-  alt: Cover of 'Trick of the Light' by Laura Elvery
+  alt: Cover of 'Trick of the Light' by Laura Elvery.
   buy: 'https://www.uqp.uq.edu.au/book.aspx/1457/Trick%20of%20the%20Light'
   image: /images/small/trick-of-the-light-cover.jpg
   praise:
@@ -29,6 +26,9 @@ book:
         *Trick of the Light* is at times haunting and poetic, other times bright
         and sharp, and always memorable and hopeful … This thoroughly profound,
         bold and playful debut pulled me along and pulled me apart.
+bio:
+  image: /images/small/laura-1O1A0126.jpg
+  title: About Laura
 ---
 
 See Laura at the [Australian Short Story Festival](https://australianshortstoryfestival.com/), Perth, 20-21 October 2018.
