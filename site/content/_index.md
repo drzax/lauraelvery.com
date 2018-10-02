@@ -28,6 +28,15 @@ book:
         bold and playful debut pulled me along and pulled me apart.
 bio:
   image: /images/small/laura-1O1A0126.jpg
+  text: >-
+    Laura Elvery's work has been published in *Meanjin*, *Overland*, *The Big
+    Issue* Fiction Edition and *Griffith Review*. She has won the Josephine
+    Ulrick Prize for Literature, the Margaret River Short Story Competition and
+    the Neilma Sidney Short Story Prize.
+
+
+    Laura has a PhD in Creative Writing. She also has two small children. She
+    lives in Brisbane.
   title: About Laura
 ---
 
