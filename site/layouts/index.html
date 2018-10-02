@@ -3,10 +3,10 @@
   <div class="book">
     <img  class="cover"
           sizes="(min-width: 40em) 80vw, 100vw"
-          srcset="/images/{{ .Params.book.image }}-small.jpg 480w,
-          /images/{{ .Params.book.image }}-medium.jpg 675w" 
-          src="/images/{{ .Params.book.image }}-small.jpg"
-          alt="Cover of 'Trick of the Light' by Laura Elvery" />
+          srcset="/images/small/{{ strings.TrimPrefix '/images/small/' .Params.book.image }} 480w,
+          /images/medium/{{ strings.TrimPrefix '/images/small/' .Params.book.image }} 675w"
+          src="/images/small/{{ strings.TrimPrefix '/images/small/' .Params.book.image }}"
+          alt="{{ .Params.book.alt }}" />
           
           <a class="buy" href="{{ .Params.book.buy }}" title="Buy Trick of the Light by Laura Elvery">Buy now →</a>
     {{ with .Params.book.praise }}
