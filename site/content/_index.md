@@ -3,7 +3,7 @@ title: Book
 menu: main
 weight: -100
 book:
-  alt: Cover of 'Trick of the Light' by Laura Elvery.
+  alt: Cover of 'Trick of the Light' by Laura Elvery
   buy: 'https://www.uqp.uq.edu.au/book.aspx/1457/Trick%20of%20the%20Light'
   image: /images/small/trick-of-the-light-cover.jpg
   praise:
