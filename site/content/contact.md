@@ -1,7 +1,8 @@
 ---
 menu: "main"
 title: "Contact"
-weight: 1000
+layout: page
+weight: 100
 ---
 
 - Email: <mailto:laura@elvery.net>

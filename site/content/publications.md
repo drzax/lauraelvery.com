@@ -1,6 +1,7 @@
 ---
 menu: "main"
 title: "Publications"
+layout: page
 weight: 10
 ---
 
