@@ -58,18 +58,18 @@ gulp.task("js", (cb) => {
 
 gulp.task("img", () =>
   gulp
-    .src("./src/images/**.*")
+    .src("./src/images/*.*")
     .pipe(
       responsive(
         {
           "*": [
             {
               width: 480,
-              rename: {suffix: "-small"}
+              rename: {prefix: "small/"}
             },
             {
               width: 675,
-              rename: {suffix: "-medium"}
+              rename: {prefix: "medium/"}
             }
           ]
         },
