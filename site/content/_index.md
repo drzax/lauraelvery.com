@@ -26,6 +26,14 @@ book:
         *Trick of the Light* is at times haunting and poetic, other times bright
         and sharp, and always memorable and hopeful … This thoroughly profound,
         bold and playful debut pulled me along and pulled me apart.
+    - attribution: Overland
+      link: 'https://overland.org.au/2018/10/october-in-fiction-2/'
+      quote: >-
+        Elvery has a talent for portraying the minutiae of characters’ lives and
+        then suddenly stripping the banal away, so that we are left staring at
+        the bare bones of a life \[...] Elvery’s debut reads like a triumph of
+        excavation – a collection in which dark matter is exposed and
+        subsequently transformed \[...] An intriguing and powerful new writer.
 bio:
   image: /images/small/laura-1O1A0126.jpg
   text: >-
