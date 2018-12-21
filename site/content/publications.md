@@ -6,6 +6,7 @@ weight: 10
 ---
 # Publications
 
+* __[_Your cart is empty_](https://overland.org.au/previous-issues/issue-233/fair-australia-prize-fiction/)_, _Overland, issue 233, 2018
 * _Seeing the Light: Shaping my debut collection from manuscript into published book_, [WQ Magazine](https://qldwriters.org.au/magazine/), 2018
 * [_Sherri Baby_](https://www.thebigissue.org.au/magazines/2018/08/10/fiction-edition-2018/), The Big Issue Fiction Edition, 2018
 * [_Neighbourly_](https://meanjin.com.au/fiction/neighbourly/), Meanjin, winter 2018
@@ -24,6 +25,8 @@ weight: 10
 
 # Awards
 
+* Winner, Fair Australia Prize for Fiction, 2018
+* Recipient, Queensland Writers Fellowship, 2018
 * Recipient, Australia Council grant, 2018
 * Winner, Neilma Sidney Short Story Prize, 2018
 * Winner, Margaret River Short Story Prize, 2017
