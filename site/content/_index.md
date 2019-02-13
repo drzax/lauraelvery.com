@@ -1,7 +1,7 @@
 ---
 title: Book
 menu: main
-weight: -100
+weight: 100
 book:
   alt: Cover of 'Trick of the Light' by Laura Elvery
   buy: 'https://www.uqp.uq.edu.au/book.aspx/1457/Trick%20of%20the%20Light'
@@ -37,14 +37,14 @@ book:
 bio:
   image: /images/small/laura-1O1A0126.jpg
   text: >-
-    Laura Elvery's work has been published in *Meanjin*, *Overland*, *The Big
-    Issue* Fiction Edition and *Griffith Review*. She has won the Josephine
-    Ulrick Prize for Literature, the Margaret River Short Story Competition and
-    the Neilma Sidney Short Story Prize.
+    Laura Elvery's work has been published in _Meanjin_, _Overland_, _The Big
+    Issue_ Fiction Edition and _Griffith Review_. She has won the Josephine
+    Ulrick Prize for Literature, the Margaret River Short Story Competition, the
+    Neilma Sidney Short Story Prize and the Fair Australia Prize for Fiction.
 
 
     Laura has a PhD in Creative Writing. She also has two small children. She
     lives in Brisbane.
   title: About Laura
 ---
-_Trick of the Light_ has been shortlisted in the [2018 Queensland Literary Awards](http://www.qldliteraryawards.org.au/about/2018-shortlists).
+_Trick of the Light_ was a finalist in the [2018 Queensland Literary Awards](http://www.qldliteraryawards.org.au/about/2018-shortlists).
