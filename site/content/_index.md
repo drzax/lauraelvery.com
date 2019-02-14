@@ -5,7 +5,7 @@ weight: 100
 book:
   alt: Cover of 'Trick of the Light' by Laura Elvery
   buy: 'https://www.uqp.uq.edu.au/book.aspx/1457/Trick%20of%20the%20Light'
-  image: /images/small/trick-of-the-light-cover.jpg
+  image: /images/small/trick-of-the-light-cover.jpeg
   praise:
     - attribution: The Saturday Paper
       link: >-
@@ -35,7 +35,7 @@ book:
         excavation – a collection in which dark matter is exposed and
         subsequently transformed \[...] An intriguing and powerful new writer.
 bio:
-  image: /images/small/laura-1O1A0126.jpg
+  image: /images/small/laura-1O1A0126.jpeg
   text: >-
     Laura Elvery's work has been published in _Meanjin_, _Overland_, _The Big
     Issue_ Fiction Edition and _Griffith Review_. She has won the Josephine
