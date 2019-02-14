@@ -19,28 +19,29 @@ const hugoArgsDefault = ["-d", "../dist", "-s", "site", "-v"];
 const hugoArgsPreview = ["--buildDrafts", "--buildFuture"];
 
 // Development tasks
-gulp.task("hugo", (cb) => buildSite(cb));
-gulp.task("hugo-preview", (cb) => buildSite(cb, hugoArgsPreview));
+function buildPreview(cb) {
+  buildSite(cb, hugoArgsPreview);
+}
 
 // Run server tasks
-gulp.task("server", ["hugo", "css", "js", "fonts", "img"], (cb) => runServer(cb));
-gulp.task("server-preview", ["hugo-preview", "css", "js", "fonts", "img"], (cb) => runServer(cb));
+gulp.task("server", gulp.series(buildSite, css, js, fonts, img, (cb) => runServer(cb)));
+gulp.task("server-preview", gulp.series(buildPreview, css, js, fonts, img, (cb) => runServer(cb)));
 
 // Build/production tasks
-gulp.task("build", ["css", "js", "fonts", "img"], (cb) => buildSite(cb, [], "production"));
-gulp.task("build-preview", ["css", "js", "fonts", "img"], (cb) => buildSite(cb, hugoArgsPreview, "production"));
+gulp.task("build", gulp.series(css, js, fonts, img, (cb) => buildSite(cb, [], "production")));
+gulp.task("build-preview", gulp.series(css, js, fonts, img, (cb) => buildSite(cb, hugoArgsPreview, "production")));
 
 // Compile CSS with PostCSS
-gulp.task("css", () =>
-  gulp
+function css() {
+  return gulp
     .src("./src/css/*.css")
     .pipe(postcss([cssImport({from: "./src/css/main.css"}), cssnext()]))
     .pipe(gulp.dest("./dist/css"))
-    .pipe(browserSync.stream())
-);
+    .pipe(browserSync.stream());
+}
 
 // Compile Javascript
-gulp.task("js", (cb) => {
+function js(cb) {
   const myConfig = Object.assign({}, webpackConfig);
 
   webpack(myConfig, (err, stats) => {
@@ -54,10 +55,10 @@ gulp.task("js", (cb) => {
     browserSync.reload();
     cb();
   });
-});
+}
 
-gulp.task("img", () =>
-  gulp
+function img() {
+  return gulp
     .src("./src/images/*.*")
     .pipe(
       responsive(
@@ -78,17 +79,17 @@ gulp.task("img", () =>
         }
       )
     )
-    .pipe(gulp.dest("./dist/images"))
-);
+    .pipe(gulp.dest("./dist/images"));
+}
 
 // Move all fonts in a flattened directory
-gulp.task("fonts", () =>
-  gulp
+function fonts() {
+  return gulp
     .src("./src/fonts/**/*")
     .pipe(flatten())
     .pipe(gulp.dest("./dist/fonts"))
-    .pipe(browserSync.stream())
-);
+    .pipe(browserSync.stream());
+}
 
 // Development server with browsersync
 function runServer() {
@@ -97,11 +98,11 @@ function runServer() {
       baseDir: "./dist"
     }
   });
-  gulp.watch("./src/js/**/*.js", ["js"]);
-  gulp.watch("./src/css/**/*.css", ["css"]);
-  gulp.watch("./src/fonts/**/*", ["fonts"]);
-  gulp.watch("./src/images/**/*", ["img"]);
-  gulp.watch("./site/**/*", ["hugo"]);
+  gulp.watch("./src/js/**/*.js", js);
+  gulp.watch("./src/css/**/*.css", css);
+  gulp.watch("./src/fonts/**/*", fonts);
+  gulp.watch("./src/images/**/*", img);
+  gulp.watch("./site/**/*", buildSite);
 }
 
 /**
