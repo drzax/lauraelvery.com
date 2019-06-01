@@ -118,6 +118,16 @@ body {
   content: "— ";
 }
 
+
+#bio {
+  margin-top: 2em;
+}
+
+#bio .portrait {
+  max-width: 100%;
+}
+
+
 @media screen and (min-width: 500px) {
   .book {
     display: grid;
@@ -142,8 +152,14 @@ body {
     padding: 16px;
     margin: 0;
   }
+  
+  
 }
 
-#bio {
-  margin-top: 2em;
+@media screen and (min-width: 500px) and (max-width: 1199px) {
+  #bio .portrait {
+    max-width: 10rem;
+    float: left;
+    margin-right: 1rem;
+  }
 }

@@ -23,6 +23,12 @@
     
   <div id="bio">
     <h1>{{ .Params.bio.title }}</h1>
+    <img  class="portrait"
+          sizes="(min-width: 1200px) 25vw, (min-width: 500px) 10rem, 100vw"
+          srcset="/images/small/{{ strings.TrimPrefix "/images/small/" .Params.bio.image }} 480w,
+          /images/medium/{{ strings.TrimPrefix "/images/small/" .Params.bio.image }} 675w"
+          src="/images/small/{{ strings.TrimPrefix "/images/small/" .Params.bio.image }}"
+          alt="{{ .Params.bio.alt }}" />
     <p>{{ .Params.bio.text | markdownify}}</p>
   </div>
 {{ end }}
