@@ -43,8 +43,8 @@ bio:
     Neilma Sidney Short Story Prize and the Fair Australia Prize for Fiction.
 
 
-    Laura has a PhD in Creative Writing. She also has two small children. She
-    lives in Brisbane.
+    Laura has a PhD in Creative Writing and Literary Studies from QUT. She also
+    has two small children. She lives in Brisbane.
   title: About Laura
 ---
-_Trick of the Light_ was a finalist in the [2018 Queensland Literary Awards](http://www.qldliteraryawards.org.au/about/2018-shortlists).
+Laura has been shortlisted for the [2019 Peter Carey Short Story Award](https://www.moorabool.vic.gov.au/residents/community/library-services)
