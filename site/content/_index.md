@@ -35,7 +35,7 @@ book:
         excavation – a collection in which dark matter is exposed and
         subsequently transformed \[...] An intriguing and powerful new writer.
 bio:
-  image: /images/small/laura-1O1A0126.jpeg
+  image: /images/small/laura-riverbend.jpg
   text: >-
     Laura Elvery's work has been published in _Meanjin_, _Overland_, _The Big
     Issue_ Fiction Edition and _Griffith Review_. She has won the Josephine
