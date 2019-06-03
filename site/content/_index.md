@@ -47,4 +47,4 @@ bio:
     has two small children. She lives in Brisbane.
   title: About Laura
 ---
-Laura has been shortlisted for the [2019 Peter Carey Short Story Award](https://www.moorabool.vic.gov.au/residents/community/library-services)
+Laura was recently shortlisted for the [2019 Peter Carey Short Story Award](https://www.moorabool.vic.gov.au/residents/community/library-services)
