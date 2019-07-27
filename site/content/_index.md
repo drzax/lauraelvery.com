@@ -47,4 +47,4 @@ bio:
     has two small children. She lives in Brisbane.
   title: About Laura
 ---
-Laura was recently shortlisted for the [2019 Peter Carey Short Story Award](https://www.moorabool.vic.gov.au/residents/community/library-services)
+Laura's short fiction will be published in _Kill Your Darling_'s first print [anthology](https://www.killyourdarlings.com.au/2019/06/new-australian-fiction-contributors-cover/), to be released in October.
