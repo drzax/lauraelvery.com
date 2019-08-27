@@ -47,4 +47,4 @@ bio:
     has two small children. She lives in Brisbane.
   title: About Laura
 ---
-Laura's short fiction will be published in _Kill Your Darling_'s first print [anthology](https://www.killyourdarlings.com.au/2019/06/new-australian-fiction-contributors-cover/), to be released in October.
+Laura's short story 'Fruit Flies' was named runner-up in the 2019 _Overland_ Victoria University Short Story [Prize](https://overland.org.au/2019/08/final-results-of-the-2019-vu-short-story-prize/).
