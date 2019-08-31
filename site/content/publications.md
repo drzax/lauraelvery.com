@@ -26,6 +26,7 @@ weight: 10
 
 # Awards
 
+* Runner-up, Overland Victoria University Short Story Prize, 2019
 * Shortlist, Peter Carey Short Story Award, 2019
 * Winner, Fair Australia Prize for Fiction, 2018
 * Recipient, Queensland Writers Fellowship, 2018
@@ -41,7 +42,7 @@ weight: 10
 * Shortlist, Margaret River Short Story Prize, 2016
 * Recipient, QUT Creative Writing Fellowship, 2016
 * Shortlist, Overland NUW Fair Australia Prize, 2015
-* Shortlist, Overland Victoria University Short Story Prize for New and Emerging Writers, 2016, 2014, 2013
+* Shortlist, Overland Victoria University Short Story Prize, 2016, 2014, 2013
 * Winner (joint), QUT Postgraduate Creative Writing Prize, 2014
 * Recipient, QWC/Hachette Publishing Manuscript Development Program, 2013
 * Winner, Griffith University Josephine Ulrick Literature Prize, 2013
