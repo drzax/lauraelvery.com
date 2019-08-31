@@ -37,14 +37,16 @@ book:
 bio:
   image: /images/small/laura-riverbend.jpeg
   text: >-
-    Laura Elvery's work has been published in _Meanjin_, _Overland_, _The Big
-    Issue_ Fiction Edition and _Griffith Review_. She has won the Josephine
-    Ulrick Prize for Literature, the Margaret River Short Story Competition, the
-    Neilma Sidney Short Story Prize and the Fair Australia Prize for Fiction.
+    My work has been published in _Meanjin_, _Overland_, _Kill Your Darlings_,
+    _The Big Issue_ Fiction Edition and _Griffith Review_. I've won the
+    Josephine Ulrick Prize for Literature, the Margaret River Short Story
+    Competition, the Neilma Sidney Short Story Prize and the Fair Australia
+    Prize for Fiction. I have a PhD in Creative Writing and Literary Studies
+    from QUT. 
 
 
-    Laura has a PhD in Creative Writing and Literary Studies from QUT. She also
-    has two small children. She lives in Brisbane.
+    I live in Brisbane with my husband, daughter and son. My next book will be
+    out in 2020 with UQP.
   title: About Laura
 ---
-Laura's short story 'Fruit Flies' was named runner-up in the 2019 _Overland_ Victoria University Short Story [Prize](https://overland.org.au/2019/08/final-results-of-the-2019-vu-short-story-prize/).
+My short story 'Fruit Flies' was named runner-up in the 2019 _Overland_ Victoria University Short Story [Prize](https://overland.org.au/2019/08/final-results-of-the-2019-vu-short-story-prize/).
