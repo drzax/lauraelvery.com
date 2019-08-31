@@ -47,6 +47,6 @@ bio:
 
     I live in Brisbane with my husband, daughter and son. My next book will be
     out in 2020 with UQP.
-  title: About Laura
+  title: About me
 ---
 My short story 'Fruit Flies' was named runner-up in the 2019 _Overland_ Victoria University Short Story [Prize](https://overland.org.au/2019/08/final-results-of-the-2019-vu-short-story-prize/).
