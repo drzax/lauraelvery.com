@@ -49,4 +49,4 @@ bio:
     out in 2020 with UQP.
   title: About me
 ---
-My short story 'Fruit Flies' was named runner-up in the 2019 _Overland_ Victoria University Short Story [Prize](https://overland.org.au/2019/08/final-results-of-the-2019-vu-short-story-prize/).
+My next book is [Ordinary Matter](https://www.uqp.com.au/books/ordinary-matter), a short story collection inspired by the twenty times women have won Nobel Prizes in the sciences. Out in September!
