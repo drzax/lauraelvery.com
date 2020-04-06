@@ -49,4 +49,4 @@ bio:
     out in 2020 with UQP.
   title: About me
 ---
-My next book is [Ordinary Matter](https://www.uqp.com.au/books/ordinary-matter), a short story collection inspired by the twenty times women have won Nobel Prizes in the sciences. Out in September!
+My next book is [Ordinary Matter](https://www.uqp.com.au/books/ordinary-matter), a collection of short stories inspired by the 20 times women have won Nobel Prizes in the sciences. Out in September!
