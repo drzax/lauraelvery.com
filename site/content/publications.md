@@ -6,23 +6,24 @@ weight: 10
 ---
 # Publications
 
-* [_The Garden Bridge_](https://overland.org.au/previous-issues/issue-235/fiction-the-garden-bridge/), Overland, issue 235, 2019
-* [_Your cart is empty_](https://overland.org.au/previous-issues/issue-233/fair-australia-prize-fiction/), Overland, issue 233, 2018
-* _Seeing the Light: Shaping my debut collection from manuscript into published book_, [WQ Magazine](https://qldwriters.org.au/magazine/), 2018
-* [_Sherri Baby_](https://www.thebigissue.org.au/magazines/2018/08/10/fiction-edition-2018/), The Big Issue Fiction Edition, 2018
-* [_Neighbourly_](https://meanjin.com.au/fiction/neighbourly/), Meanjin, winter 2018
-* [_Unspooling_](https://overland.org.au/previous-issues/issue-230/fiction-prize-laura-elvery/), Overland, issue 230, 2018
-* [_Joiner Bay_](https://margaretriverpress.com/product/joiner-bay-and-other-stories/), Joiner Bay and Other Stories, 2017
-* [_Wingspan_](https://griffithreview.com/articles/wingspan/), Griffith Review, Ed. 58, 2017
-* [_What You Really Collect Is Always Yourself_](http://reviewofaustralianfiction.com/product/raf-140-volume-21-issue-1/), Review of Australian Fiction, February 2017
-* [_Acrobat_](https://margaretriverpress.com/product/shibboleth-other-stories/), Shibboleth and Other Stories, 2016
-* [_Hitting Send: Taking a short story from draft to market_](https://qldwriters.org.au/2016/01/04/hitting-send-taking-a-short-story-from-draft-to-market/), WQ Online, 2016
-* [_Pudding_](https://thewritersbloc.net/bloc-features-pudding-laura-elvery), Writers Bloc, 2016
-* [_Caius Atlas_](https://griffithreview.com/articles/caius-atlas/), Griffith Review, Ed. 51, 2016
-* [_Pudding_](https://www.thebigissue.org.au/blog/2016/03/23/fiction-edition---pudding/), The Big Issue Fiction Edition, 2015
-* [_Replica_](https://booko.com.au/9780500500552/Prizing-Diversity), Prizing Diversity, Thames and Hudson, 2015
-* [_Love, Listen_](https://www.yenmag.net/friday-fiction-love-listen/), Yen Mag Short Story Prize Runner-up, 2015
-* [_The Elements_](https://www.killyourdarlings.com.au/2014/11/the-elements-by-laura-elvery/), Kill Your Darlings, 2014
+* *[Fruit Flies](https://overland.org.au/previous-issues/issue-236/short-story-prize-laura-elvery/)*, Overland, issue 236, 2019
+* *[The Garden Bridge](https://overland.org.au/previous-issues/issue-235/fiction-the-garden-bridge/)*, Overland, issue 235, 2019
+* *[Your cart is empty](https://overland.org.au/previous-issues/issue-233/fair-australia-prize-fiction/)*, Overland, issue 233, 2018
+* *Seeing the Light: Shaping my debut collection from manuscript into published book*, [WQ Magazine](https://qldwriters.org.au/magazine/), 2018
+* *[Sherri Baby](https://www.thebigissue.org.au/magazines/2018/08/10/fiction-edition-2018/)*, The Big Issue Fiction Edition, 2018
+* *[Neighbourly](https://meanjin.com.au/fiction/neighbourly/)*, Meanjin, winter 2018
+* *[Unspooling](https://overland.org.au/previous-issues/issue-230/fiction-prize-laura-elvery/)*, Overland, issue 230, 2018
+* *[Joiner Bay](https://margaretriverpress.com/product/joiner-bay-and-other-stories/)*, Joiner Bay and Other Stories, 2017
+* *[Wingspan](https://griffithreview.com/articles/wingspan/)*, Griffith Review, Ed. 58, 2017
+* *[What You Really Collect Is Always Yourself](http://reviewofaustralianfiction.com/product/raf-140-volume-21-issue-1/)*, Review of Australian Fiction, February 2017
+* *[Acrobat](https://margaretriverpress.com/product/shibboleth-other-stories/)*, Shibboleth and Other Stories, 2016
+* *[Hitting Send: Taking a short story from draft to market](https://qldwriters.org.au/2016/01/04/hitting-send-taking-a-short-story-from-draft-to-market/)*, WQ Online, 2016
+* *[Pudding](https://thewritersbloc.net/bloc-features-pudding-laura-elvery)*, Writers Bloc, 2016
+* *[Caius Atlas](https://griffithreview.com/articles/caius-atlas/)*, Griffith Review, Ed. 51, 2016
+* *[Pudding](https://www.thebigissue.org.au/blog/2016/03/23/fiction-edition---pudding/)*, The Big Issue Fiction Edition, 2015
+* *[Replica](https://booko.com.au/9780500500552/Prizing-Diversity)*, Prizing Diversity, Thames and Hudson, 2015
+* *[Love, Listen](https://www.yenmag.net/friday-fiction-love-listen/)*, Yen Mag Short Story Prize Runner-up, 2015
+* *[The Elements](https://www.killyourdarlings.com.au/2014/11/the-elements-by-laura-elvery/)*, Kill Your Darlings, 2014
 
 # Awards
 
