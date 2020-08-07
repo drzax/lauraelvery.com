@@ -1,0 +1,13 @@
+<footer id="site-footer">
+  <div class="page-bounds">
+    <div id="footer-content">
+      <div>{{ .Site.Data.settings.footer_content | markdownify }}</div>
+      <div>
+        {{ .Site.Data.settings.copyright | markdownify }}
+
+      </div>
+    </div>
+  </div>
+</footer>
+{{ $script := resources.Get "js/app.js" }}
+<script src="{{ $script.RelPermalink }}"></script>

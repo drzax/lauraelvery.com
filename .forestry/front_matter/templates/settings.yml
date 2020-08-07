@@ -1,0 +1,30 @@
+---
+label: settings
+hide_body: true
+fields:
+- type: textarea
+  name: announcement
+  label: Announcement
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+  description: This shows along the top of every page on the site
+- name: footer_content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Footer content
+- name: copyright
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Copyright

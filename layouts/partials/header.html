@@ -1,0 +1,21 @@
+<div id="announcement">
+  {{ .Site.Data.settings.announcement | markdownify }}
+
+</div>
+<header id="site-header">
+  <div class="page-bounds">
+    <h1 id="site-title"><a href="/">Laura Elvery</a></h1>
+    <nav id="main-menu">
+      <ul>
+        {{ $currentPage := . }}
+ {{ range .Site.Menus.main }}
+
+        <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+          <a href="{{ .URL }}">{{ .Name }}</a>
+        </li>
+        {{ end }}
+
+      </ul>
+    </nav>
+  </div>
+</header>

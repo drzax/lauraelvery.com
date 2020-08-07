@@ -1,0 +1,79 @@
+---
+label: Book Page
+hide_body: false
+fields:
+- type: text
+  name: type
+  label: type
+  hidden: true
+  default: book
+- type: text
+  name: title
+  label: Title
+- type: textarea
+  name: subtitle
+  label: Subtitle
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: field_group
+  name: image
+  label: Hero Image
+  fields:
+  - type: file
+    name: src
+    label: Image
+  - type: text
+    name: alt
+    label: Text description
+  - name: style
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Style
+- type: field_group
+  name: image
+  label: Teaser Image
+  fields:
+  - type: file
+    name: src
+    label: Image
+  - type: text
+    name: alt
+    label: Text description
+  - name: style
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Style
+- type: field_group_list
+  name: praise
+  label: Praise
+  fields:
+  - type: text
+    name: attribution
+    label: Attribution
+  - type: text
+    name: link
+    label: Link
+  - type: textarea
+    name: quote
+    label: Quote
+pages:
+- content/books/ordinary-matter.md
+- content/books/trick-of-the-light.md

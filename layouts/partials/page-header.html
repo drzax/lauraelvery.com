@@ -1,0 +1,34 @@
+<div id="content-header">
+  <div class="page-bounds">
+    <div id="page-title">
+      <h1>{{ .Page.Params.title | markdownify }}</h1>
+      {{ if isset .Params "image" }}
+{{ $image := resources.Get .Params.image.src }}
+
+      {{ $small := $image.Resize "200x" }}
+ {{ $medium := $image.Resize "400x" }}
+
+      {{ $large := $image.Resize "800x" }}
+
+      <div id="hero-image">
+        <figure>
+          <img
+            class="cover"
+            sizes="(min-width: 1000px) 400px, 40vw"
+            srcset="
+              {{ $small.RelPermalink }} 200w,
+              {{ $medium.RelPermalink }}  400w,
+              {{ $large.RelPermalink }} 800w
+            "
+            src="{{ $small.RelPermalink }}"
+            alt="{{ .Params.image.alt }}"
+          />
+          <figcaption>{{ .Params.image.caption }}</figcaption>
+        </figure>
+      </div>
+      {{ end }}
+
+      <div id="subtitle">{{ .Page.Params.subtitle | markdownify }}</div>
+    </div>
+  </div>
+</div>

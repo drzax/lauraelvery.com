@@ -1,0 +1,42 @@
+{{ define "main" }}
+{{ partial "page-header.html" . }}
+{{ partial "page-content.html" . }}
+
+<div class="page-bounds">
+  <div id="section-listing">
+    {{ range .Pages }}
+
+    <div>
+      {{ if .Params.teaser_image }}
+
+      <figure class="promo-image">
+        {{ $image := resources.Get .Params.teaser_image.src }}
+
+        {{ $small := $image.Resize "480x" }}
+
+        {{ $medium := $image.Resize "800x" }}
+
+        {{ $large := $image.Resize "1200x" }}
+
+        <a href="{{.Permalink}}"
+          ><img
+            sizes="(min-width: 40em) 80vw, 100vw"
+            srcset="
+              {{ $small.RelPermalink }}  480w,
+              {{ $medium.RelPermalink }}   800w,
+              {{ $large.RelPermalink }} 1200w
+            "
+            src="{{ $small.RelPermalink }}"
+            alt="{{ .Params.image.alt }}"
+        /></a>
+      </figure>
+      {{ end }}
+
+      <h2><a href="{{.Permalink}}">{{ .Title }}</a></h2>
+    </div>
+
+    {{ end }}
+
+  </div>
+</div>
+{{ end }}

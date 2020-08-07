@@ -1,0 +1,20 @@
+<div id="page-content" class="page-bounds">
+  <div>
+    {{.Content}}
+ {{ if isset .Params "praise" }}
+
+    <div id="praise">
+      {{ range .Params.praise }}
+
+      <blockquote>
+        {{ .quote | markdownify }}
+
+        <cite><a href="{{ .link }}">{{ .attribution }}</a></cite>
+      </blockquote>
+      {{end}}
+
+    </div>
+    {{ end }}
+
+  </div>
+</div>
