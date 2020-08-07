@@ -1,0 +1,6 @@
+---
+baseURL: https://lauraelvery.com/
+languageCode: en-us
+title: Laura Elvery - Author
+permalinks:
+  "/": "/:sections/:slug/"

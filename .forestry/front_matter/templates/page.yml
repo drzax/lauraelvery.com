@@ -1,0 +1,49 @@
+---
+label: Page
+hide_body: false
+fields:
+- type: text
+  name: type
+  label: type
+  hidden: true
+  default: page
+- type: text
+  name: title
+  label: Title
+- type: textarea
+  name: subtitle
+  label: Subtitle
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: field_group
+  name: image
+  label: Hero Image
+  fields:
+  - type: file
+    name: src
+    label: Image
+  - type: text
+    name: alt
+    label: Text description
+  - name: style
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Style
+- name: slug
+  type: text
+  config:
+    required: false
+  label: URL segment
+  description: Change the URL segment to be something different from the filename
+pages:
+- content/_index.md

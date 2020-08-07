@@ -1,0 +1,23 @@
+{{ if isset .Params "image" }}
+<div class="title-block {{ .Params.image.style }}">
+  <div class="image-block">
+<figure>
+  {{ $image := resources.Get .Params.image.src }}
+  {{ $small := $image.Resize "480x"}}
+  {{ $medium := $image.Resize "800x"}}
+  {{ $large := $image.Resize "1200x"}}
+  <img class="cover" sizes="(min-width: 40em) 80vw, 100vw"
+    srcset="{{ $small.RelPermalink }} 480w,{{ $medium.RelPermalink }} 800w,{{ $large.RelPermalink }} 1200w"
+    src="{{ $small.RelPermalink }}" alt="{{ .Params.image.alt }}" />
+    <figcaption>{{ .Params.image.caption }}</figcaption>
+</figure>
+  </div>
+  
+  <div class="text-block">
+    <div>
+    <h1 class="page-title">{{ .Page.Params.title }}</h1>
+    <div>{{ .Page.Params.subtitle | markdownify }}</div>
+    </div>
+  </div>
+</div>
+{{ end }}

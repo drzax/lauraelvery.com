@@ -1,0 +1,39 @@
+#site-footer {
+  font-family: "Cabin", sans-serif;
+  color: #ddd;
+  padding: 0;
+  margin: 3rem 0;
+}
+
+#site-footer a,
+#site-footer a:visited,
+#site-footer a:link {
+  color: #ccc;
+}
+
+#footer-content {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+
+  @media (max-width: 400px) {
+    flex-direction: column;
+    > div {
+      margin-bottom: 1rem;
+    }
+  }
+}
+
+#footer-content > div:first-child {
+  margin-right: 2rem;
+  @media (max-width: 400px) {
+    margin-right: 0;
+  }
+}
+
+#footer-content > div:last-child {
+  text-align: right;
+  @media (max-width: 400px) {
+    text-align: left;
+  }
+}
