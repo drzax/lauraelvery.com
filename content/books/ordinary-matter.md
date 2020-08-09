@@ -19,7 +19,7 @@ image:
   style: contain
 praise:
 - attribution: Toni Jordan
-  link: ''
+  link: https://www.tonijordan.com/
   quote: Elegant, wise and humming with insight – this sublime collection proves that
     Elvery is in a class of her own.
 - attribution: Ceridwen Dovey
