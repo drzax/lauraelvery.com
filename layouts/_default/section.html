@@ -1,9 +1,12 @@
 {{ define "main" }}
 {{ partial "page-header.html" . }}
-{{ partial "page-content.html" . }}
 
-<div class="page-bounds">
-  <div id="section-listing">
+{{ if len .Content }}
+{{ partial "page-content.html" . }}
+{{ end }}
+
+<div class="page-bounds" id="section-listing">
+  <div>
     {{ range .Pages }}
 
     <div>

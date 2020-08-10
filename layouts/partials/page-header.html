@@ -10,7 +10,7 @@
 
       {{ $large := $image.Resize "800x" }}
 
-      <div id="hero-image">
+      <div id="hero-image" class="{{.Params.image.style}}">
         <figure>
           <img
             class="cover"
