@@ -11,12 +11,12 @@ image:
     a pink background
   caption: 
   credit: Design By Committee
-  style: contain
+  style: ''
 teaser_image:
-  src: "/images/trick-of-the-light-product.jpg"
+  src: "/images/img_9648.jpeg"
   alt: Photo of book Trick of the Light by Laura Elvery featuring a dead bird on a
     pink background
-  style: contain
+  style: ''
 praise:
 - attribution: The Saturday Paper
   link: https://www.thesaturdaypaper.com.au/2018/03/31/trick-the-light/15218100005975
