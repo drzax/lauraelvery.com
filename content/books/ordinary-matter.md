@@ -6,10 +6,10 @@ subtitle: |-
 
   [Pre-order now](https://www.uqp.com.au/books/ordinary-matter) →
 teaser_image:
-  src: "/images/ordinary-matter-product.jpg"
+  src: "/images/img_9646.jpeg"
   alt: Photo of book Ordinary Matter by Laura Elvery collage of images related to
     Nobel Prize-winning science
-  style: contain
+  style: ''
 image:
   src: "/images/ordinary-matter-cover.jpg"
   alt: Cover image of Ordinary Matter by Laura Elvery collage of images related to
