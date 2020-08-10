@@ -129,6 +129,7 @@ body {
   position: absolute;
   right: var(--vertical-margin);
   top: calc(100% + 2rem);
+  pointer-events: none;
 
   > figure {
     margin: 0;
