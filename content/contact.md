@@ -13,19 +13,9 @@ menu:
     weight: 2
 
 ---
+Laura’s work has been published in _Meanjin_, _Overland_, _The Saturday Paper_, _The Big Issue_ Fiction Edition and _Griffith Review_. She has won the Josephine Ulrick Prize for Literature, the Margaret River Short Story Competition, the Neilma Sidney Short Story Prize and the Fair Australia Prize for Fiction. She has a PhD in Creative Writing and Literary Studies from QUT.
 
-Laura’s work has been published in _Meanjin_, _Overland_, _Kill Your Darlings_, _The Big Issue_ Fiction Edition and _Griffith Review_. She has won the Josephine Ulrick Prize for Literature, the Margaret River Short Story Competition, the Neilma Sidney Short Story Prize and the Fair Australia Prize for Fiction. Laura has a PhD in Creative Writing and Literary Studies from QUT.
-
-She lives in Brisbane with her husband and two children.
-
-Laura's work has been published in _Meanjin_, _Overland_, _Kill Your Darlings_,
-_The Big Issue_ Fiction Edition and _Griffith Review_. I've won the
-Josephine Ulrick Prize for Literature, the Margaret River Short Story
-Competition, the Neilma Sidney Short Story Prize and the Fair Australia
-Prize for Fiction. I have a PhD in Creative Writing and Literary Studies
-from QUT.
-
-She live in Brisbane with my husband, daughter and son. My next book will be out in 2020 with UQP.
+Laura lives in Brisbane with her husband and two children.
 
 ## Contact
 

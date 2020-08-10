@@ -19,20 +19,20 @@ image:
   style: contain
 praise:
 - attribution: Toni Jordan
-  link: ''
+  link: https://www.tonijordan.com/
   quote: Elegant, wise and humming with insight – this sublime collection proves that
     Elvery is in a class of her own.
 - attribution: Ceridwen Dovey
-  link: ''
+  link: https://www.ceridwendovey.com/
   quote: These stories gently and beautifully track the outward ripples of these women's
     scientific achievements, through the years and across decades. An experimental
     and literary triumph.
 - attribution: Abigail Ulman
-  link: ''
+  link: https://www.rcwlitagency.com/authors/ulman-abigail/
   quote: A beautifully crafted and moving collection of stories about women who change
     history while struggling against its constraints.
 - attribution: Brooke Davis
-  link: ''
+  link: https://www.facebook.com/brookedavisauthor/
   quote: Daring, whole-hearted and wickedly funny, each story in Elvery’s Ordinary
     Matter expertly reveals an entire world – of love, hurt, healing; of ambition,
     discovery, and revenge. An utterly luminous collection from one of the country’s
