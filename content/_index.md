@@ -7,7 +7,7 @@ image:
   src: "/images/ordinary-matter-cover.jpg"
   alt: Cover image of Ordinary Matter by Laura Elvery; a collage of images related
     to Nobel Prize-winning scientists
-  caption: Coming September 2020
+  caption: ''
   credit: Design By Committee
   style: ''
 slug: ''
