@@ -42,6 +42,11 @@ fields:
         file: 
         path: 
     label: Style
+  - name: caption
+    type: text
+    config:
+      required: false
+    label: Caption
 - name: slug
   type: text
   config:
