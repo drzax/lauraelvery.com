@@ -1,13 +1,12 @@
 ---
 title: Laura is an award-winning author of short fiction
-subtitle: |-
-  Her second collection, [_Ordinary Matter_](books/ordinary-matter), is inspired by the twenty times women have won Nobel Prizes for science.
-
-  [Pre-order now](https://www.uqp.com.au/books/ordinary-matter "Buy now") →
+subtitle: "Her second collection, [_Ordinary Matter_](books/ordinary-matter), is inspired
+  by the twenty times women have won Nobel Prizes for science.\n\n[Buy now](https://www.uqp.com.au/books/ordinary-matter
+  \"Ordinary Matter\") "
 image:
   src: "/images/ordinary-matter-cover.jpg"
-  alt: Cover image of Ordinary Matter by Laura Elvery collage of images related to
-    Nobel Prize-winning science
+  alt: Cover image of Ordinary Matter by Laura Elvery; a collage of images related
+    to Nobel Prize-winning scientists
   caption: Coming September 2020
   credit: Design By Committee
   style: ''
