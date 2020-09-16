@@ -27,6 +27,11 @@ fields:
   - type: text
     name: alt
     label: Text description
+  - name: caption
+    type: text
+    config:
+      required: false
+    label: Caption
   - name: style
     type: select
     default:
@@ -42,11 +47,6 @@ fields:
         file: 
         path: 
     label: Style
-  - name: caption
-    type: text
-    config:
-      required: false
-    label: Caption
 - name: slug
   type: text
   config:
