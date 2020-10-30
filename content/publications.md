@@ -16,6 +16,7 @@ menu:
 ---
 # Publications
 
+* Eve, [Island Magazine](https://islandmag.com/currentissue), issue 160
 * Capricorn Highway, [The Saturday Paper](https://www.thesaturdaypaper.com.au/), issue 313
 * Something Close to Gold, [New Australian Fiction](https://www.killyourdarlings.com.au/shop/new-australian-fiction-2019/), 2019
 * [_Fruit Flies_](https://overland.org.au/previous-issues/issue-236/short-story-prize-laura-elvery/), Overland, issue 236, 2019
