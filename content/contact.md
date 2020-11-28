@@ -19,6 +19,6 @@ Laura lives in Brisbane with her husband and two children.
 
 ## Contact
 
-* Email: [mailto:laura@elvery.net](mailto:laura@elvery.net)
+* Email: [laura@elvery.net](mailto:laura@elvery.net)
 * Twitter: [@lauraelvery](https://twitter.com/lauraelvery)
 * Publisher: [University of Queensland Press](https://www.uqp.uq.edu.au/contactus.aspx)
