@@ -3,9 +3,12 @@ title: About Laura
 subtitle: 'Laura is a [multi-award-winning](/publications) author of two [short story
   collections](/books). '
 image:
-  src: "/images/laura-riverbend.jpeg"
-  alt: Picture of Laura Elvery
+  src: "/images/20210909_slq_qla_jruckli_035.jpg"
+  alt: Picture of Laura Elvery, wearing a pink dress and black earrings. In the background
+    is the Brisbane River.
   style: round
+  caption: At State Library of Queensland, 9 September 2021, for the Queensland Literary
+    Awards. Photo by Joe Ruckli.
 menu:
   main:
     name: About & Contact
