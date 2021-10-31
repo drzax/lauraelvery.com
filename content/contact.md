@@ -7,7 +7,7 @@ image:
   alt: Picture of Laura Elvery at State Library of Queensland, wearing a pink dress
     and black earrings. In the background is the Brisbane River.
   style: round
-  caption: 2021 Queensland Literary Awards. Photo by Joe Ruckli.
+  caption: ''
 menu:
   main:
     name: About & Contact
@@ -17,6 +17,8 @@ menu:
 Laura’s work has been published in _Meanjin_, _Overland_, _The Saturday Paper_, _Island_, _Australian Financial Review_, _The Big Issue_ Fiction Edition and _Griffith Review_. She has won the Josephine Ulrick Prize for Literature, the Margaret River Short Story Competition, the Neilma Sidney Short Story Prize and the Fair Australia Prize for Fiction. She has a PhD in Creative Writing and Literary Studies from QUT.
 
 Laura grew up in Toowoomba. She lives in Brisbane with her husband and two children.
+
+Photo by Joe Ruckli, 2021 Queensland Literary Awards.
 
 ## Contact
 
