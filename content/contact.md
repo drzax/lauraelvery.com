@@ -14,7 +14,7 @@ menu:
     weight: 2
 
 ---
-Laura’s work has been published in _Meanjin_, _Overland_, _The Saturday Paper_, _Island_, _Australian Financial Review_, _The Big Issue_ Fiction Edition and _Griffith Review_. She has won the Josephine Ulrick Prize for Literature, the Margaret River Short Story Competition, the Neilma Sidney Short Story Prize and the Fair Australia Prize for Fiction. She has a PhD in Creative Writing and Literary Studies from QUT.
+Laura’s work has been published in _Meanjin_, _Overland_, _The Saturday Paper_, _Island_, _Australian Financial Review_, _The Big Issue_ Fiction Edition and _Griffith Review_. She has won the Josephine Ulrick Prize for Literature, the Margaret River Short Story Competition, the Neilma Sidney Short Story Prize and the Fair Australia Prize for Fiction. She has a PhD in Creative Writing and Literary Studies from QUT. In 2021, Laura was the inaugural Writer in Residence at the Centre for Critical and Creative Writing at UQ. 
 
 Laura grew up in Toowoomba. She lives in Brisbane with her husband and two children.
 
