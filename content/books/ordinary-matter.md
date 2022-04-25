@@ -4,7 +4,7 @@ title: Ordinary Matter
 subtitle: |-
   Inspired by the twenty times women have won Nobel Prizes for science, Ordinary Matter is Laura's second short story collection.
 
-  [Pre-order now](https://www.uqp.com.au/books/ordinary-matter) →
+  [Order now](https://www.uqp.com.au/books/ordinary-matter) →
 teaser_image:
   src: "/images/img_9646.jpeg"
   alt: Photo of book Ordinary Matter by Laura Elvery collage of images related to
