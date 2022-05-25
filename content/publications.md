@@ -40,10 +40,12 @@ menu:
 
 # Awards
 
+* Winner, [_Ordinary Matter_](https://www.uqp.com.au/books/ordinary-matter), [Steele Rudd Award for a Short Story Collection](https://www.slq.qld.gov.au/get-involved/fellowships-awards-residencies/queensland-literary-awards/2021-queensland-literary-awards-winners-and-finalists), 2021
 * Runner-up, Overland Victoria University Short Story Prize, 2019
 * Shortlist, Peter Carey Short Story Award, 2019
 * Winner, Fair Australia Prize for Fiction, 2018
 * Recipient, Queensland Writers Fellowship, 2018
+* Finalist, [_Trick of the Light_](https://www.uqp.com.au/books/trick-of-the-light), Steele Rudd Award for a Short Story Collection, 2018
 * Recipient, Australia Council grant, 2018, 2019
 * Finalist, Queensland Literary Awards, 2018
 * Winner, Neilma Sidney Short Story Prize, 2018
