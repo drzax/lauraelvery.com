@@ -16,6 +16,7 @@ menu:
 ---
 # Publications
 
+* Hand Held, [Island Magazine](https://islandmag.com/current-issue), issue 165
 * Eve, [Island Magazine](https://islandmag.com/currentissue), issue 160
 * Capricorn Highway, [The Saturday Paper](https://www.thesaturdaypaper.com.au/), issue 313
 * Something Close to Gold, [New Australian Fiction](https://www.killyourdarlings.com.au/shop/new-australian-fiction-2019/), 2019
