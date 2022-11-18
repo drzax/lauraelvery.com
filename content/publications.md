@@ -10,8 +10,7 @@ image:
   style: ''
 menu:
   main:
-    name: Publications
-    weight: 1
+    weight: 2
 
 ---
 # Stories and essays

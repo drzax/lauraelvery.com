@@ -8,6 +8,6 @@ image:
   style: contain
 menu:
   main:
-    weight: 3
+    weight: 1
 
 ---

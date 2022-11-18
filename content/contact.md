@@ -10,7 +10,7 @@ image:
 menu:
   main:
     name: About & Contact
-    weight: 2
+    weight: 3
 
 ---
 Laura is the author of [_Trick of the Light_](https://www.uqp.com.au/books/trick-of-the-light) and [_Ordinary Matter_](https://www.uqp.com.au/books/ordinary-matter), which won the 2021 Steele Rudd Award for a Short Story Collection. Laura's short fiction and essays have been published in _Meanjin_, _Overland_, _The Saturday Paper_, _Island_, _Australian Financial Review_, _The Big Issue_ Fiction Edition and _Griffith Review_. She has won the Josephine Ulrick Prize for Literature, the Margaret River Short Story Competition, the Neilma Sidney Short Story Prize and the Fair Australia Prize for Fiction. Laura has a PhD in Creative Writing and Literary Studies from QUT. She lives in Brisbane.  
