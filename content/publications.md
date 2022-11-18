@@ -1,5 +1,5 @@
 ---
-title: Other writing
+title: Stories and essays
 subtitle: Laura's writing has been featured in a wide variety of literary journals,
   magazines and anthologies.
 image:
@@ -14,7 +14,7 @@ menu:
     weight: 1
 
 ---
-# Other writing
+# Stories and essays
 
 * [Minds Went Walking: Paul Kelly’s Songs Reimagined](https://fremantlepress.com.au/books/minds-went-walking-paul-kellys-songs-reimagined/), Fremantle Press, 2022
 * Confected outrage: what's in a snack name?, [Griffith Review](https://www.griffithreview.com/store/a-matter-of-taste/), edition 78, 2022
