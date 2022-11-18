@@ -1,7 +1,6 @@
 ---
 title: About Laura
-subtitle: 'Laura is a [multi-award-winning](/publications) author of two [short story
-  collections](/books). '
+subtitle: Laura is an award-winning author of two [short story collections](/books).
 image:
   src: "/images/20210909_slq_qla_jruckli_035.jpg"
   alt: Picture of Laura Elvery at State Library of Queensland, wearing a pink dress
