@@ -1,7 +1,6 @@
 ---
 title: Books
-subtitle:
-  Laura is the author of two full-length short story collections and contributor
+subtitle: Laura is the author of two full-length short story collections and contributor
   to several [anthologies](/publications).
 image:
   src: "/images/ordinary-matter-brain.png"
@@ -10,4 +9,5 @@ image:
 menu:
   main:
     weight: 3
+
 ---
