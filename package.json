@@ -4,8 +4,8 @@
   "description": "Code and content for [lauraelvery.com](https://lauraelvery.com).",
   "main": "index.js",
   "scripts": {
-    "build": "hugo --verbose",
-    "dev": "hugo --verbose server"
+    "build": "hugo",
+    "dev": "hugo server"
   },
   "repository": {
     "type": "git",
