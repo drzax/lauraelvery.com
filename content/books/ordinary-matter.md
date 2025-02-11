@@ -1,46 +1,47 @@
 ---
 type: book
 title: Ordinary Matter
-subtitle: |-
-  Inspired by the twenty times women have won Nobel Prizes for science, Ordinary Matter is Laura's second short story collection.
+subtitle: >-
+  Inspired by the twenty times women have won Nobel Prizes for science, Ordinary
+  Matter is Laura's second short story collection.
+
 
   [Order now](https://www.uqp.com.au/books/ordinary-matter) →
-teaser_image:
-  src: "/images/img_9646.jpeg"
-  alt: Photo of book Ordinary Matter by Laura Elvery collage of images related to
-    Nobel Prize-winning science
-  style: ''
 image:
-  src: "/images/ordinary-matter-cover.jpg"
+  src: /images/ordinary-matter-cover.jpg
   alt: Cover image of Ordinary Matter by Laura Elvery collage of images related to
     Nobel Prize-winning science
-  caption: Coming September 2020
+  caption: ""
   credit: Design By Committee
   style: contain
+teaser_image:
+  src: /images/img_9646.jpeg
+  alt: Photo of book Ordinary Matter by Laura Elvery collage of images related to
+    Nobel Prize-winning science
+  style: default
 praise:
-- attribution: Toni Jordan
-  link: https://www.tonijordan.com/
-  quote: Elegant, wise and humming with insight – this sublime collection proves that
-    Elvery is in a class of her own.
-- attribution: Ceridwen Dovey
-  link: https://www.ceridwendovey.com/
-  quote: These stories gently and beautifully track the outward ripples of these women's
-    scientific achievements, through the years and across decades. An experimental
-    and literary triumph.
-- attribution: Abigail Ulman
-  link: https://www.rcwlitagency.com/authors/ulman-abigail/
-  quote: A beautifully crafted and moving collection of stories about women who change
-    history while struggling against its constraints.
-- attribution: Brooke Davis
-  link: https://www.facebook.com/brookedavisauthor/
-  quote: Daring, whole-hearted and wickedly funny, each story in Elvery’s Ordinary
-    Matter expertly reveals an entire world – of love, hurt, healing; of ambition,
-    discovery, and revenge. An utterly luminous collection from one of the country’s
-    most original voices.
+  - attribution: Toni Jordan
+    link: https://www.tonijordan.com/
+    quote: Elegant, wise and humming with insight – this sublime collection proves
+      that Elvery is in a class of her own.
+  - attribution: Ceridwen Dovey
+    link: https://www.ceridwendovey.com/
+    quote: These stories gently and beautifully track the outward ripples of these
+      women's scientific achievements, through the years and across decades. An
+      experimental and literary triumph.
+  - attribution: Abigail Ulman
+    link: https://www.rcwlitagency.com/authors/ulman-abigail/
+    quote: A beautifully crafted and moving collection of stories about women who
+      change history while struggling against its constraints.
+  - attribution: Brooke Davis
+    link: https://www.facebook.com/brookedavisauthor/
+    quote: Daring, whole-hearted and wickedly funny, each story in Elvery’s Ordinary
+      Matter expertly reveals an entire world – of love, hurt, healing; of
+      ambition, discovery, and revenge. An utterly luminous collection from one
+      of the country’s most original voices.
 menu:
   none:
     weight: 1
-
 ---
 In 1895 Alfred Nobel rewrote his will and left his fortune made in dynamite and munitions to generations of thinkers. Since 1901 women have been honoured with Nobel Prizes for their scientific research twenty times, including Marie Curie twice.
 
