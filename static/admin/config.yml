@@ -40,6 +40,7 @@ collections:
           - name: caption
             label: Caption
             widget: string
+            required: false
           - name: style
             label: Style
             widget: select
@@ -59,6 +60,7 @@ collections:
           - name: caption
             label: Caption
             widget: string
+            required: false
           - name: style
             label: Style
             widget: select
@@ -115,6 +117,7 @@ collections:
           - name: caption
             widget: string
             label: Caption
+            required: false
           - name: style
             widget: select
             default: default
@@ -133,12 +136,15 @@ collections:
             name: announcement
             label: Announcement
             description: This shows along the top of every page on the site
+            required: false
           - name: footer_content
             widget: markdown
             default: ''
             label: Footer content
+            required: false
           - name: copyright
             widget: markdown
             default: ''
             label: Copyright
+            required: false
 
