@@ -1,0 +1,144 @@
+backend:
+  name: github
+  repo: drzax/lauraelvery.com
+  use_graphql: true
+  branch: master 
+  base_url: https://elvery.net
+  auth_endpoint: /api/1/github/auth
+  squash_merges: true
+media_folder: assets/images
+public_folder: /images
+publish_mode: editorial_workflow
+collections:
+  - name: 'books'
+    label: 'Books'
+    label_singular: Book
+    folder: 'content/books'
+    extension: md
+    format: frontmatter
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: "type", name: "type", widget: "hidden", default: "book" }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Subtitle', name: 'subtitle', widget: 'markdown' }
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+      - label: 'Hero image'
+        name: 'image'
+        widget: 'object'
+        fields:
+          - name: 'src'
+            label: 'Image'
+            widget: 'image'
+          - name: alt
+            label: Text description
+            widget: string
+          - name: caption
+            label: Caption
+            widget: string
+          - name: style
+            label: Style
+            widget: select
+            default: default
+            multiple: false
+            options: ['default', 'round', 'contain']
+      - label: 'Teaser image'
+        name: 'teaser_image'
+        widget: 'object'
+        fields:
+          - name: 'src'
+            label: 'Image'
+            widget: 'image'
+          - name: alt
+            label: Text description
+            widget: string
+          - name: caption
+            label: Caption
+            widget: string
+          - name: style
+            label: Style
+            widget: select
+            default: default
+            multiple: false
+            options: ['default', 'round', 'contain']
+      - label: 'Praise'
+        name: praise
+        allow_add: true
+        summary: '{{fields.attribution}}'
+        label_singular: "Praise"
+        widget: list
+        fields:
+          - widget: string
+            name: attribution
+            label: Attribution
+          - widget: string
+            name: link
+            label: Link
+          - widget: text
+            name: quote
+            label: Quote
+  - name: 'pages'
+    label: Pages
+    label_singular: Page
+    folder: 'content'
+    extension: md
+    format: frontmatter
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - widget: hidden
+        name: type
+        label: type
+        default: page
+      - widget: string
+        name: title
+        label: Title
+      - widget: markdown
+        name: subtitle
+        label: Subtitle
+      - widget: object
+        name: image
+        label: Hero Image
+        fields:
+          - widget: image
+            name: src
+            label: Image
+          - widget: string
+            name: alt
+            label: Text description
+          - name: caption
+            widget: string
+            label: Caption
+          - name: style
+            widget: select
+            default: default
+            options: ['default','round','contain']
+            label: Style
+  - name: 'settings'
+    label: 'Settings'
+    files: 
+      - name: 'main'
+        label: 'Main'
+        file: 'data/settings.yaml'
+        editor:
+          preview: false 
+        fields:
+          - widget: markdown
+            name: announcement
+            label: Announcement
+            description: This shows along the top of every page on the site
+          - name: footer_content
+            widget: markdown
+            default: ''
+            label: Footer content
+          - name: copyright
+            widget: markdown
+            default: ''
+            label: Copyright
+
