@@ -1,18 +1,23 @@
 ---
-title: Laura is an award-winning author of short fiction
-subtitle: "Her second collection, [_Ordinary Matter_](books/ordinary-matter), is inspired
-  by the twenty times women have won Nobel Prizes for science.\n\n[Buy now](https://www.uqp.com.au/books/ordinary-matter
-  \"Ordinary Matter\") "
-image:
-  src: "/images/ordinary-matter-cover.jpg"
-  alt: Cover image of Ordinary Matter by Laura Elvery; a collage of images related
-    to Nobel Prize-winning scientists
-  caption: ''
-  credit: Design By Committee
-  style: ''
-slug: ''
-type: ''
+title: I'm an award-winning author of short fiction – and my first novel is out now
+subtitle: >-
+  My novel, *[Nightingale](https://www.uqp.com.au/books/nightingale)*, is
+  inspired by the life of Florence Nightingale. I'm also the author of two
+  collections of short fiction, *[Ordinary
+  Matter](https://www.uqp.com.au/books/ordinary-matter)* and *[Trick of the
+  Light](https://www.uqp.com.au/books/trick-of-the-light)*. 
 
+
+  [Buy now](https://www.uqp.com.au/books/nightingale)
+image:
+  src: /images/cover-rgb-web-9780702265877-nightingale.jpg
+  alt: Cover image of Nightingale by Laura Elvery, which is black and yellow and
+    shows the arm of a woman holding a lamp
+  caption: ""
+  credit: Design By Committee
+  style: round
+slug: ""
+type: ""
 ---
 In 1895 Alfred Nobel rewrote his will and left his fortune made in dynamite and munitions to generations of thinkers. Since 1901 women have been honoured with Nobel Prizes for their scientific research twenty times, including Marie Curie twice.
 
