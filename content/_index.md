@@ -18,4 +18,6 @@ image:
 slug: ""
 type: ""
 ---
-Mayfair, 1910. At the age of ninety, Florence Nightingale is frail and no longer of sound mind. After a celebrated career as a nurse, writer and statistician, she now leads a reclusive existence. One summer evening she is astonished to receive a visitor: a young man named Silas Bradley, who claims to have met her during the Crimean War fifty-five years ago. But how can this be? And how does the elusive Jean Frawley connect their two lives?
+Mayfair, 1910. At the age of ninety, Florence Nightingale is frail and no longer of sound mind. After a celebrated career as a nurse, writer and statistician, she now leads a reclusive existence. One summer evening she is astonished to receive a visitor: a young man named Silas Bradley, who claims to have met her during the Crimean War fifty-five years ago. 
+
+But how can this be? And how does the elusive Jean Frawley connect their two lives?
