@@ -18,6 +18,5 @@ image:
 slug: ""
 type: ""
 ---
-In 1895 Alfred Nobel rewrote his will and left his fortune made in dynamite and munitions to generations of thinkers. Since 1901 women have been honoured with Nobel Prizes for their scientific research twenty times, including Marie Curie twice.
 
-Spanning more than a century and ranging across the world, this inventive story collection is inspired by these women whose work has altered history and saved millions of lives. From a transformative visit to the Grand Canyon to a baby washing up on a Queensland beach, a climate protest during a Paris heatwave to Stockholm on the eve of the 1977 Nobel Prize ceremony, these stories interrogate the nature of inspiration and discovery, motherhood and sacrifice, illness and legacy. Sometimes the extraordinary pivots on the ordinary.
+Mayfair, 1910. At the age of ninety, Florence Nightingale is frail and no longer of sound mind. After a celebrated career as a nurse, writer and statistician, she now leads a reclusive existence. One summer evening she is astonished to receive a visitor: a young man named Silas Bradley, who claims to have met her during the Crimean War fifty-five years ago. But how can this be? And how does the elusive Jean Frawley connect their two lives?
