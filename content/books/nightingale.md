@@ -7,7 +7,7 @@ subtitle: >-
   and love, bravery and care, and the vitality of women’s work.
 
 
-  [Order now](https://www.uqp.com.au/books/nightingale) →
+  [Buy now](https://www.uqp.com.au/books/nightingale) →
 image:
   style: default
   src: /images/cover-rgb-web-9780702265877-nightingale.jpg
