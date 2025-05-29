@@ -1,5 +1,5 @@
 ---
-title: I'm an award-winning author of short fiction – and my first novel is out now
+title: I'm an award-winning author of short fiction – and my first novel is out now.
 subtitle: >-
   My novel, *[Nightingale](/books/nightingale)*, is inspired by the life of
   Florence Nightingale. I'm also the author of two collections of short fiction,
