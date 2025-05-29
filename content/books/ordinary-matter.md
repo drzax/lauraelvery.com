@@ -6,7 +6,7 @@ subtitle: >-
   Matter is Laura's second short story collection.
 
 
-  [Order now](https://www.uqp.com.au/books/ordinary-matter) →
+  [Buy now](https://www.uqp.com.au/books/ordinary-matter) →
 image:
   src: /images/ordinary-matter-cover.jpg
   alt: Cover image of Ordinary Matter by Laura Elvery collage of images related to
