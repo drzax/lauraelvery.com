@@ -104,6 +104,9 @@ collections:
       - widget: markdown
         name: subtitle
         label: Subtitle
+      - widget: markdown
+        label: 'Body'
+        name: 'body'
       - widget: object
         name: image
         label: Hero Image
