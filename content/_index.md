@@ -1,21 +1,20 @@
 ---
 title: I'm an award-winning author of short fiction – and my first novel is out now
 subtitle: >-
-  My novel, *[Nightingale](https://www.uqp.com.au/books/nightingale)*, is
-  inspired by the life of Florence Nightingale. I'm also the author of two
-  collections of short fiction, *[Ordinary
-  Matter](https://www.uqp.com.au/books/ordinary-matter)* and *[Trick of the
-  Light](https://www.uqp.com.au/books/trick-of-the-light)*. 
+  My novel, *[Nightingale](/books/nightingale)*, is inspired by the life of
+  Florence Nightingale. I'm also the author of two collections of short fiction,
+  *[Ordinary Matter](/books/ordinary-matter)* and *[Trick of the
+  Light](/books/trick-of-the-light)*. 
 
 
-  [Buy now](https://www.uqp.com.au/books/nightingale)
+  [Buy now →](https://www.uqp.com.au/books/nightingale)[](https://www.uqp.com.au/books/nightingale)
 image:
   src: /images/cover-rgb-web-9780702265877-nightingale.jpg
   alt: Cover image of Nightingale by Laura Elvery, which is black and yellow and
     shows the arm of a woman holding a lamp
   caption: ""
   credit: Design By Committee
-  style: round
+  style: default
 slug: ""
 type: ""
 ---
