@@ -3,8 +3,8 @@ type: book
 title: Nightingale
 subtitle: >-
   In this eagerly anticipated novel, Laura Elvery shows why she is one of the
-  most lauded writers of her generation. *Nightingale* is a luminous tale of
-  faith and love, bravery and care, and the vitality of women’s work.
+  most lauded writers of her generation. Nightingale is a luminous tale of faith
+  and love, bravery and care, and the vitality of women’s work.
 
 
   [Order now](https://www.uqp.com.au/books/nightingale) →
