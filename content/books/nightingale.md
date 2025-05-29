@@ -11,8 +11,8 @@ subtitle: >-
 image:
   style: default
   src: /images/cover-rgb-web-9780702265877-nightingale.jpg
-  alt: The Nightingale book cover, it has a large black N on a bright yellow
-    background. In side the N is an illustration of an arm holding a lamp.
+  alt: The Nightingale book cover; it has a large black N on a bright yellow
+    background. Inside the N is an illustration of an arm holding a lamp.
 teaser_image:
   style: default
   src: /images/img_9799.jpg
