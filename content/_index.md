@@ -22,4 +22,4 @@ Mayfair, 1910. At the age of ninety, Florence Nightingale is frail and no longer
 
 But how can this be? And how does the elusive Jean Frawley connect their two lives?
 
-In this eagerly anticipated novel, Laura Elvery shows why she is one of the most lauded writers of her generation. *Nightingale* is a luminous tale of faith and love, bravery and care, and the vitality of women’s work.
+*Nightingale* is a luminous tale of faith and love, bravery and care, and the vitality of women’s work.
