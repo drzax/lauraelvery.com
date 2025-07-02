@@ -27,9 +27,11 @@ collections:
       - label: 'Body'
         name: 'body'
         widget: 'markdown'
+        required: false
       - label: 'Hero image'
         name: 'image'
         widget: 'object'
+        required: false
         fields:
           - name: 'src'
             label: 'Image'
@@ -50,6 +52,7 @@ collections:
       - label: 'Teaser image'
         name: 'teaser_image'
         widget: 'object'
+        required: false
         fields:
           - name: 'src'
             label: 'Image'
