@@ -3,7 +3,7 @@ type: book
 title: Ordinary Matter
 subtitle: >-
   Inspired by the twenty times women have won Nobel Prizes for science, Ordinary
-  Matter is Laura's second short story collection.
+  Matter is my second short story collection.
 
 
   [Buy now](https://www.uqp.com.au/books/ordinary-matter) →
