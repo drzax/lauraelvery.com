@@ -41,5 +41,3 @@ praise:
 
 ---
 An art teacher sends four of her students on a guerrilla mission. A young runner struggles to make sense of his best friend’s death. A health-food company adopts a farcical promotional strategy. A factory worker spends her days applying radioactive paint to watches, while dreaming of a future with her new suitor.
-
-With a keen eye for detail and rich emotional insight, Laura Elvery reveals the fears and fantasies of everyday people searching for meaning.
