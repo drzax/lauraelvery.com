@@ -2,7 +2,7 @@
 type: book
 title: Trick of the Light
 subtitle: |-
-  *Trick of the Light* is Laura's debut collection of short stories.
+  *Trick of the Light* is my debut collection of short stories.
 
   [Buy now](https://www.uqp.com.au/books/trick-of-the-light) →
 image:
