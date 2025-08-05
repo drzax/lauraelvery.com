@@ -1,6 +1,6 @@
 ---
 title: Other writing
-subtitle: Laura's writing has been featured in a wide variety of literary journals,
+subtitle: My writing has been featured in a wide variety of literary journals,
   magazines and anthologies.
 image:
   src: "/images/ordinary-matter-suculents.png"
