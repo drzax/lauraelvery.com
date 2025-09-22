@@ -3,19 +3,19 @@ title: Other writing
 subtitle: My writing has been featured in a wide variety of literary journals,
   magazines and anthologies.
 image:
-  src: "/images/ordinary-matter-suculents.png"
-  alt: Stylised image of a brain as featured in the cover art of Ordinary Matter by
+  src: /images/ordinary-matter-suculents.png
+  alt: Stylised image of cactuses as featured in cover art of Ordinary Matter by
     Laura Elvery
   credit: Design By Committee
-  style: ''
+  style: default
 menu:
   main:
     weight: 2
-
 ---
-# Stories and essays
+# Stories and essays[](https://fremantlepress.com.au/books/minds-went-walking-paul-kellys-songs-reimagined/)
 
-* [Minds Went Walking: Paul Kelly’s Songs Reimagined](https://fremantlepress.com.au/books/minds-went-walking-paul-kellys-songs-reimagined/), Fremantle Press, 2022
+* [Sea Glass](https://meanjin.com.au/fiction/sea-glass/), Meanjin, spring 2025
+* [Minds Went Walking: Paul Kelly’s Songs Reimagined](<>), Fremantle Press, 2022
 * Confected outrage: what's in a snack name?, [Griffith Review](https://www.griffithreview.com/store/a-matter-of-taste/), edition 78, 2022
 * Hand Held, [Island Magazine](https://islandmag.com/current-issue), issue 165, 2022
 * Eve, [Island Magazine](https://islandmag.com/read/eve-by-laura-elvery), issue 160, 2021
